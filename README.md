@@ -3,7 +3,6 @@
   
   Passionate about open-source projects, Cloud and Linux networking📦🔗.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinoogni&label=Profile%20views&color=0e75b6&style=flat" alt="pinoogni" /> </p>
 
 - 🔭 I’m currently working on **personal and private company projects 🤞.**
 
