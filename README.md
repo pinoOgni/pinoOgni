@@ -3,11 +3,6 @@
   
   Passionate about open-source projects, Cloud and Linux networking📦🔗.</h3>
 
-
-- 🔭 I’m currently working on **personal and private company projects 🤞.**
-
-- 🌱 I’m currently learning **Jenkins, Terraform and more DevOps tools.**
-
 - 💬 Ask me about **Kubernetes and Linux.**
 
 - 📄 I worked **as a Software Engineer in Tokyo 🇯🇵 for one year.**
